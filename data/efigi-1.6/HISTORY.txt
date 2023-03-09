@@ -1,0 +1,4 @@
+Mar 29, 2011: initial 1.6 release.
+May 16, 2011: v1.6.1 fixes coordinate swaps in EFIGI_coord_redshift table.
+Jul 28, 2011: v1.6.2 fixes corrupted B/T values for some early types.
+
